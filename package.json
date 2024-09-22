@@ -1,0 +1,16 @@
+{
+  "name": "erc20-challenge",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.11",
+    "@openzeppelin/hardhat-upgrades": "^3.3.0",
+    "dotenv": "^16.4.0",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.22.0",
+    "hardhat-deploy": "^0.12.0",
+    "tsx": "^4.10.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
